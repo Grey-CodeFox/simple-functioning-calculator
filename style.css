@@ -86,3 +86,8 @@ input {
 .button-container button:active {
   transform: scale(0.95);
 }
+
+.button-container button:hover {
+  color: var(--bg-button-color);
+  background-color: #984141bd;
+}
